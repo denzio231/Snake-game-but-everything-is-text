@@ -1,17 +1,16 @@
-import tkinter as tk
+
 import os
 import random
 a_counter = 0
 b_counter = 0
-window = tk.Tk()
 lol = 0
 right = True
 left = False
 up = False
 hit = False
 balance = False
-a_x =5
-a_y = 8
+a_x = random.randint(0,29)
+a_y = random.randint(0,29)
 first = False
 down = False
 end = False
