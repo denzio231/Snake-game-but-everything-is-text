@@ -103,5 +103,4 @@ while not end:
     
     
     eat = False
-print(a_counter)
-print(b_counter)
+print('You died lol')
